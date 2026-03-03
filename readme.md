@@ -1,6 +1,6 @@
 # Tabel Dan Login Page
 
-![Tampilan Web Tabel Pweb](screenshot.png)
+![Tampilan Web Tabel Pweb](/image/tampakweb.png)
 
 Sebuah halaman web sederhana yang dibangun menggunakan HTML dan CSS. Proyek ini menampilkan tabel nilai siswa dan formulir login dasar dengan antarmuka yang bersih dan responsif.
 
@@ -28,7 +28,3 @@ Proyek ini tidak memerlukan instalasi server atau dependensi tambahan.
 1. Unduh atau _clone_ repositori ini.
 2. Pastikan file `index.html` dan `style/page.css` berada di direktori yang sesuai.
 3. Klik dua kali pada file `index.html` untuk membukanya melalui web browser (Google Chrome, Firefox, Safari, dll).
-
-## 📝 Catatan Tambahan (Saran Kode)
-
-Pada file `index.html`, elemen `<table>` diletakkan di dalam tag `<head>`. Sebaiknya pindahkan elemen `<table>` tersebut ke dalam tag `<body>` agar struktur HTML menjadi lebih valid (sesuai standar).
