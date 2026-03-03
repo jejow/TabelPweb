@@ -1,0 +1,12 @@
+{
+  "name": "tabel-pweb",
+  "version": "1.0.0",
+  "description": "Halaman web sederhana dengan tabel nilai siswa dan formulir login",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server"
+  },
+  "keywords": ["html", "css", "tabel", "login"],
+  "author": "",
+  "license": "ISC"
+}
