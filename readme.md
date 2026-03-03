@@ -1,6 +1,6 @@
 # Tabel Dan Login Page
 
-![Tampilan Web Tabel Pweb](screenshot.png)
+![Tampilan Web Tabel Pweb](/image/tampakweb.png)
 
 Sebuah halaman web sederhana yang dibangun menggunakan HTML dan CSS. Proyek ini menampilkan tabel nilai siswa dan formulir login dasar dengan antarmuka yang bersih dan responsif.
 
